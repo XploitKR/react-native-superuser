@@ -1,0 +1,25 @@
+{
+  "name": "react-native-superuser",
+  "version": "1.0.0",
+  "description": "use use libsuperuser in react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kowbot/react-native-superuser.git"
+  },
+  "keywords": [
+    "react-native",
+    "reactnative",
+    "superuser",
+    "chainfire"
+  ],
+  "author": "“kowbot” <“kow@xploit.kr”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kowbot/react-native-superuser/issues"
+  },
+  "homepage": "https://github.com/kowbot/react-native-superuser#readme"
+}
